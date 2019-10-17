@@ -1,0 +1,49 @@
+body{
+    font-family: "メイリオ";
+}
+
+h1{
+    margin:0 auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-left:4px red solid;
+    background-color: #f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    width:500px;
+    font-size:20px;
+}
+
+.confirm{
+    margin:0 auto;
+    margin-top:10px;
+    margin-bottom:20px;
+    width: 500px;
+    background-color:#fbfbfb;
+    border:3px solid #ebebeb;
+}
+
+.confirm p{
+    margin: 20px;
+}
+
+.button1{
+    float: left;
+    background-color: #b8b8b8;
+    color:white;
+    border-bottom:2px solid gray;
+    border-radius:5px;
+    margin-left:10px;
+    margin-bottom:30px;
+}
+
+.button2{
+    background-color:#FFA500;
+    color:white;
+    border-bottom:2px solid #E08600;
+    border-radius:5px;
+    margin-left:10px;
+    margin-bottom:10px;
+    margin-bottom:30px;
+}
