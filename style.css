@@ -1,0 +1,82 @@
+/*ヘッダー部分*/
+header img{
+    width:300px;
+    height:70px;
+    margin-left: 40px;
+}
+header ul{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-left: 30px;
+}
+header ul li{
+    float: left;
+    color: white;
+    list-style-type: none;
+    padding-left: 35px;
+    line-height: 50px;
+}
+/*全体と文字部分*/
+.main{
+    width: 95%;
+    margin-left: 30px;   
+}
+main h2{
+    width: 885px;
+    border-bottom: 2px solid black;
+    border-left: 5px solid black;
+    padding-left: 10px;
+}
+main .clock{
+    display:inline-block;
+    margin-bottom: 20px;
+}
+.text{
+    line-height: 40px;
+}
+/*メイン左画像部分*/
+.left{
+    float: left;
+    width: 80%;
+}
+.all_pic{
+    width: 900px;
+    height: 400px;
+    background-color: lightgray;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.all_pic img{
+    width: 150px;
+    margin:20px;
+}
+.all_pic .left_pic{
+    display: inline-block;
+}
+/*メイン右ナビ部分*/
+.right{
+    float: left;
+    width: 20%;
+    margin-top: 10px;
+}
+.right ul{
+    list-style-type: none;
+}
+.nav{
+    border-bottom: 2px dotted black;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+/*フッター部分*/
+footer{
+    clear: left;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+    line-height: 40px;
+}
